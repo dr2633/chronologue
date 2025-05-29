@@ -115,7 +115,7 @@ mcp dev mcp/server_google_calendar.py
 #### Streamlit Chat Editor Interface 
 
 ```bash
-streamlit run modules/streamlit_chat_editor.py
+streamlit run modules/streamlit/streamlit-demo.py
 ```
 
 
