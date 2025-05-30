@@ -84,7 +84,7 @@ if ics_file:
 
         with st.spinner("Thinking..."):
             res = openai.ChatCompletion.create(
-                model="gpt-4-turbo",
+                model="gpt-4.1",
                 messages=[
                     {"role": "system", "content": prompt},
                     {"role": "user", "content": user_query}
