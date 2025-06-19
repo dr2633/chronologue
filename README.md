@@ -27,7 +27,7 @@
 
 ## Overview
 
-Chronologue transforms memory (ie. conversation history, scheduled events) into calendar-grounded interfaces for agents and users. By bridging natural language, structured memory, and scheduling, it enables agents to operate over time while giving users a familiar, editable interface to steer behavior and planning.
+Chronologue transforms memory (ie. scheduled events or conversation history) into calendar-grounded interfaces for agents and users. By bridging natural language, memory, and planning, we enable agents to operate in time with  users within a familiar and editable interface.
 
 <img src="figures/calendar-example.png" width="600">
 
@@ -167,7 +167,7 @@ Below is a preview of the Cursor Calendar —a programmable interface where agen
 
 For demos, collaboration, or integration questions:  
 **Derek Rosenzweig**  
-derek.rosenzweig1@gmail.com  
+derek@runtimelabs.ai 
 
 ## License
 
